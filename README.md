@@ -1,21 +1,16 @@
-# vue-01
+# vue-01-larsfoll
 
-> A Vue.js project
+> A Vue.js project to create and read articles
 
-## Build Setup
+---
+## Usage
 
-``` bash
-# install dependencies
-npm install
+To create and read articles the JSON server must be running to do this run the following command when in the vue-01 folder
+> json-server --watch articles.
 
-# serve with hot reload at localhost:8080
-npm run dev
+For more info visit https://github.com/typicode/json-server
 
-# build for production with minification
-npm run build
+To run the site write on of the following commands when in the vue-01 folder
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+> yarn dev
+> npm run dev

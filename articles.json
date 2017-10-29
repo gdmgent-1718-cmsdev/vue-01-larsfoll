@@ -71,6 +71,18 @@
       "title": "The Velvet Underground",
       "body": "The Velvet Underground was een experimentele rockgroep uit New York die actief was van 1964 tot 1973. Hoewel de groep destijds geen noemenswaardig commercieel succes boekte, geldt The Velvet Underground tegenwoordig als een van de meest vooruitstrevende en invloedrijkste rockgroepen aller tijden.",
       "id": 11
+    },
+    {
+      "user": "Lars",
+      "title": "Weezer",
+      "body": "Weezer is een alternatieve rockband uit Los Angeles die op Valentijnsdag in 1992 werd opgericht door zanger-gitarist-componist Rivers Cuomo.",
+      "id": 12
+    },
+    {
+      "user": "Lars",
+      "title": "The 13th Floor Elevators",
+      "body": "The 13th Floor Elevators were an American rock band from Austin, Texas, formed by guitarist and vocalist Roky Erickson, electric jug player Tommy Hall, and guitarist Stacy Sutherland. The band existed from 1965 to 1969. During their career, the band released four LP records and seven 45s for the International Artists record label.",
+      "id": 13
     }
   ]
 }
