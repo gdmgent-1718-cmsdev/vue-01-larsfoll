@@ -1,0 +1,76 @@
+{
+  "articles": [
+    {
+      "body": "Laborum cillum aliqua ad mollit ex reprehenderit laboris exercitation proident pariatur fugiat exercitation excepteur. Amet reprehenderit tempor id nisi aute consequat in dolore exercitation esse et nulla sit aliquip. Fugiat commodo consequat in ea fugiat commodo nostrud labore duis. Proident magna est minim Lorem nulla. Eu ea occaecat elit culpa proident laborum laborum. Tempor id deserunt elit irure nisi excepteur consectetur proident.",
+      "user": "Hammond",
+      "title": "ut Lorem velit",
+      "id": 0
+    },
+    {
+      "body": "Esse quis aute minim exercitation ipsum aliqua qui. Pariatur reprehenderit reprehenderit ipsum aliquip cillum sit anim do nostrud non magna culpa. Aliquip ex voluptate excepteur proident ullamco id adipisicing. Labore magna voluptate sit tempor enim dolor exercitation sunt. Sit magna enim consectetur sunt occaecat aliquip.",
+      "user": "Stella",
+      "title": "enim mollit consequat",
+      "id": 1
+    },
+    {
+      "body": "Dolor do quis tempor mollit officia nostrud sunt labore dolor nostrud aliqua mollit et do. Quis adipisicing nisi fugiat qui veniam do pariatur eu ipsum aliqua ipsum laboris incididunt. Elit eu consequat ex nulla cupidatat consequat incididunt deserunt. Sit commodo occaecat cupidatat eiusmod sint duis dolor esse amet fugiat. Magna anim eiusmod ad ex velit do. Occaecat incididunt nostrud veniam consequat sunt amet voluptate deserunt quis. Amet enim magna anim cillum consectetur Lorem labore dolor dolore dolore ut et.",
+      "user": "Mcleod",
+      "title": "excepteur laborum commodo",
+      "id": 2
+    },
+    {
+      "body": "Tempor elit velit cupidatat quis. Et esse amet anim velit magna proident sunt culpa dolore cupidatat minim. Ut labore non pariatur reprehenderit veniam minim occaecat ex labore consequat est. Sint aliqua commodo nostrud officia esse consequat esse elit labore sunt.",
+      "user": "Clarissa",
+      "title": "elit mollit nisi",
+      "id": 3
+    },
+    {
+      "body": "Nisi magna aliquip consequat consequat velit. Dolore tempor non aliquip enim eu sunt est quis sit. Officia sunt mollit deserunt deserunt est incididunt elit est cillum consequat. Aute do mollit pariatur et nulla enim. Ullamco cupidatat cillum ullamco pariatur in sint elit voluptate commodo.",
+      "user": "Margery",
+      "title": "Lorem irure sit",
+      "id": 4
+    },
+    {
+      "body": "Pariatur reprehenderit cillum cillum magna eiusmod pariatur laborum magna culpa anim ad. Anim ipsum in fugiat tempor mollit est ipsum dolore commodo nulla. Elit reprehenderit dolore duis et enim tempor enim nulla ullamco sit et. Dolore mollit et do consequat incididunt aliquip.",
+      "user": "Burns",
+      "title": "tempor aute id",
+      "id": 5
+    },
+    {
+      "body": "Consequat excepteur aliqua quis velit cillum quis enim elit incididunt consequat irure. Esse sunt voluptate laboris excepteur esse exercitation irure exercitation exercitation anim commodo id. Lorem Lorem consectetur aliquip ut do nulla aute. Occaecat sit nisi commodo sunt proident in ipsum ex id.",
+      "user": "Robles",
+      "title": "sit non commodo",
+      "id": 6
+    },
+    {
+      "body": "Esse cillum sint aute fugiat ea nulla. Voluptate et Lorem esse esse cillum nostrud sint pariatur adipisicing aute. Officia ea sunt irure pariatur voluptate qui. Aute exercitation ut commodo non voluptate irure veniam deserunt.",
+      "user": "Knowles",
+      "title": "irure exercitation sint",
+      "id": 7
+    },
+    {
+      "body": "Esse fugiat ullamco esse velit pariatur voluptate mollit. Laboris irure do proident ad sunt fugiat sint voluptate. Incididunt officia ex reprehenderit officia ipsum Lorem incididunt mollit. Voluptate proident labore magna exercitation et sit ea Lorem sunt aute non veniam.",
+      "user": "Alta",
+      "title": "sint amet quis",
+      "id": 8
+    },
+    {
+      "user": "Lars",
+      "title": "Pixies",
+      "body": "Pixies is een Amerikaanse alternatieve rockgroep uit Boston. De groep werd in 1986 opgericht door leadzanger en gitarist Black Francis, leadgitarist Joey Santiago, bassiste en zangeres Kim Deal en drummer David Lovering. Na het uitbrengen van vier invloedrijke studioalbums werd de groep in 1993 opgeheven. In 2004 kwam de groep weer bij elkaar. Kim Deal stapte in 2013 uit de groep; het volgende jaar werd het nieuwste studioalbum in 23 jaar uitgebracht. Vanaf 2014 vervult Paz Lenchantin de rol van bassiste en zangeres.",
+      "id": 9
+    },
+    {
+      "user": "Lars",
+      "title": "Pavement",
+      "body": "Pavement is een indierockband en het grootste project van zanger en gitarist Stephen Malkmus. Net als de meeste bands onder het genre indierock is de muziek niet commercieel en dus ook niet echt groot geworden, echter hun invloed op latere bands is daarentegen wel aanzienlijk.",
+      "id": 10
+    },
+    {
+      "user": "Lars",
+      "title": "The Velvet Underground",
+      "body": "The Velvet Underground was een experimentele rockgroep uit New York die actief was van 1964 tot 1973. Hoewel de groep destijds geen noemenswaardig commercieel succes boekte, geldt The Velvet Underground tegenwoordig als een van de meest vooruitstrevende en invloedrijkste rockgroepen aller tijden.",
+      "id": 11
+    }
+  ]
+}
